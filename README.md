@@ -28,6 +28,17 @@ List of resources to became better .Net developer.
 - [Memory leaks](https://michaelscodingspot.com/find-fix-and-avoid-memory-leaks-in-c-net-8-best-practices/)
 
 
+- [ASP.NET Core: Middleware](https://www.linkedin.com/learning/asp-dot-net-core-middleware/welcome?u=2113185)
+- [Razor Pages](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages/using-loose-coupling-for-maintainability?u=2113185)
+- [Learning ASP.NET Core MVC ](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc/reuse-shared-html-markup-with-layouts-2?u=2113185)
+- [Building and Securing RESTful APIs in ASP.NET Core](https://www.linkedin.com/learning/building-and-securing-restful-apis-in-asp-dot-net-core-2018/what-is-rest?u=2113185)
+- [ASP.NET Core Identity: Authentication Management](https://www.linkedin.com/learning/asp-dot-net-core-identity-authentication-management/securing-asp-dot-net-core-apps-with-authentication?u=2113185)
+- [ASP.NET Core Identity: Authorization Management](https://www.linkedin.com/learning/asp-dot-net-core-identity-authorization-management/securing-asp-dot-net-core-apps-with-authorization?u=2113185)
+- [ ASP.NET Core: Security ](https://www.linkedin.com/learning/asp-dot-net-core-security-2?u=2113185)
+
+- [Using HTTP Methods for RESTful Services](https://www.restapitutorial.com/lessons/httpmethods.html)
+
+
 ## Logging
 
 - [ ASP.NET Core: Logging with log4net ](https://www.linkedin.com/learning/asp-dot-net-core-logging-with-log4net/leverage-the-power-of-logging-frameworks?u=2113185)
