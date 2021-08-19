@@ -26,3 +26,30 @@ List of resources to became better .Net developer.
 - [Deadlocks in depth I](https://michaelscodingspot.com/c-deadlocks-in-depth-part-1/)
 - [Deadlocks in depth II](https://michaelscodingspot.com/c-deadlocks-in-depth-part-2/)
 - [Memory leaks](https://michaelscodingspot.com/find-fix-and-avoid-memory-leaks-in-c-net-8-best-practices/)
+
+
+## Logging
+
+- [ ASP.NET Core: Logging with log4net ](https://www.linkedin.com/learning/asp-dot-net-core-logging-with-log4net/leverage-the-power-of-logging-frameworks?u=2113185)
+- [C# Logging best practices in 2021 with examples and tools](https://raygun.com/blog/c-sharp-logging-best-practices/)
+- [Logging in .NET Core and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging?tabs=aspnetcore2x)
+- [Logging in .NET](https://docs.microsoft.com/en-us/dotnet/core/extensions/logging?tabs=command-line)
+
+
+## Design patterns and AntiPatterns
+
+- [📖 Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?crid=R2E2CLND4NPB&dchild=1&keywords=design+patterns&qid=1629300613&sprefix=design+pa%2Caps%2C315&sr=8-1)
+- [📖 Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=sr_1_2?crid=R2E2CLND4NPB&dchild=1&keywords=design+patterns&qid=1629300613&sprefix=design+pa%2Caps%2C315&sr=8-2)
+
+
+- [Code Smells](https://refactoring.guru/refactoring/smells)
+- [GoF Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
+- [Design Patterns](https://www.dofactory.com/net/design-patterns)
+- [Design Patterns in C#](https://refactoring.guru/design-patterns/csharp)
+
+- [Anti-pattern](https://en.wikipedia.org/wiki/Anti-pattern)
+- [Big Ball of Mud](https://exceptionnotfound.net/big-ball-of-mud-the-daily-software-anti-pattern/)
+- [Big Ball of Mud](https://deviq.com/antipatterns/big-ball-of-mud)
+- [God Object](https://en.wikipedia.org/wiki/God_object)
+- [God Object](https://exceptionnotfound.net/god-objects-the-daily-software-anti-pattern/)
+- [Anti-Patterns](https://sourcemaking.com/antipatterns/software-development-antipatterns)
