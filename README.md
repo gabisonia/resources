@@ -169,6 +169,9 @@ List of resources to became better .Net developer.
 - [Pair programming](https://stackify.com/pair-programming-advantages/)
 
 
+## Best Practices for Code Review
+
+
 # Agile/Scrum/Kanban/Waterfall
 
 - [Manifesto](https://agilemanifesto.org/)
