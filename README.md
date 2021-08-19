@@ -95,7 +95,7 @@ List of resources to became better .Net developer.
 - [God Object](https://en.wikipedia.org/wiki/God_object)
 - [God Object](https://exceptionnotfound.net/god-objects-the-daily-software-anti-pattern/)
 - [Anti-Patterns](https://sourcemaking.com/antipatterns/software-development-antipatterns)
-- [Code Smells](https://refactoring.guru/refactoring/smells)
+
 
 ## Principles
 
