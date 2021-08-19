@@ -53,3 +53,67 @@ List of resources to became better .Net developer.
 - [God Object](https://en.wikipedia.org/wiki/God_object)
 - [God Object](https://exceptionnotfound.net/god-objects-the-daily-software-anti-pattern/)
 - [Anti-Patterns](https://sourcemaking.com/antipatterns/software-development-antipatterns)
+
+## Principles
+
+- [📖 Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- [📖 97 Things Every Programmer Should Know](https://www.amazon.com/Things-Every-Programmer-Should-Know/dp/0596809484)
+
+- [SOLID](https://en.wikipedia.org/wiki/SOLID)
+- [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+- [SOLID](https://itnext.io/solid-principles-explanation-and-examples-715b975dcad4)
+- [SOLID](https://www.dotnettricks.com/learn/designpatterns/solid-design-principles-explained-using-csharp)
+- [SOLID](https://www.baeldung.com/solid-principles)
+- [SOLID](https://medium.com/@mirzafarrukh13/solid-design-principles-c-de157c500425)
+
+- [10 Crucial Software Development Principles to Live By](https://www.laneways.agency/software-development-principles/)
+- [KISS](https://en.wikipedia.org/wiki/KISS_principle)
+- [YAGNI, DRY Code, KISS Programming and More](https://www.itexico.com/blog/software-development-kiss-yagni-dry-3-principles-to-simplify-your-life)
+- [Rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming))
+- [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+- [Avoiding RepetitionMartin Fowler](https://martinfowler.com/ieeeSoftware/repetition.pdf)
+- [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+- [Stop trying to be so DRY, instead Write Everything Twice (WET) ](https://dev.to/wuz/stop-trying-to-be-so-dry-instead-write-everything-twice-wet-5g33)
+- [Demeter’s Law: Don’t talk to strangers!](https://betterprogramming.pub/demeters-law-don-t-talk-to-strangers-87bb4af11694)
+- [Tell, Don’t Ask, the Pragmatic Way](https://programmingwithmosh.com/net/tell-dont-ask-the-pragmatic-way/)
+
+## Testing
+
+- [📖 Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+- [📖 BDD in Action: Behavior-driven development for the whole software lifecycle](https://www.amazon.com/BDD-Action-Behavior-driven-development-lifecycle/dp/161729165X)
+
+- [TestPyramid](https://martinfowler.com/bliki/TestPyramid.html)
+- [TestCoverage](https://martinfowler.com/bliki/TestCoverage.html)
+- [Testing and Code Coverage](https://pjcj.net/testing_and_code_coverage/paper.html)
+- [Mutation Testing](https://www.guru99.com/mutation-testing.html)
+
+## REST
+
+- [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
+- [REST](https://restfulapi.net/)
+- [REST](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
+- [REST](https://www.mulesoft.com/resources/api/what-is-rest-api-design)
+- [REST](https://www.ibm.com/cloud/learn/rest-apis)
+
+## Architecture 
+
+- [📖 Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?crid=1IXFRTULIFRPI&dchild=1&keywords=domain+driven+design&qid=1629302305&sprefix=Domain+Dri%2Caps%2C160&sr=8-1)
+- [📖 Implementing Domain-Driven Design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577/ref=sr_1_2?crid=1IXFRTULIFRPI&dchild=1&keywords=domain+driven+design&qid=1629302320&sprefix=Domain+Dri%2Caps%2C160&sr=8-2)
+- [📖 Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358/ref=sr_1_1?dchild=1&keywords=microservices&qid=1629302481&sr=8-1)
+
+- [Microservices](https://microservices.io/)
+- [Mircorservices By Martin Fowler](https://www.martinfowler.com/articles/microservices.html)
+
+- [CQRS Documents by Greg Young](https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf)
+- [CQRS By Martin Fowler](https://martinfowler.com/bliki/CQRS.html)
+- [Clarified CQRS - Udi Dahan](https://udidahan.com/2009/12/09/clarified-cqrs/)
+
+- [Event Sourcing- Martin Fowler](https://martinfowler.com/eaaDev/EventSourcing.html)
+- [Event Sourcing pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
+- [Event Sorucing](https://microservices.io/patterns/data/event-sourcing.html)
+
+- [ServiceOrientedAmbiguity](https://martinfowler.com/bliki/ServiceOrientedAmbiguity.html)
+- [Microservices vs SOA](https://dzone.com/articles/microservices-vs-soa-2)
+
+
+
