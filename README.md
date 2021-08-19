@@ -36,6 +36,37 @@ List of resources to became better .Net developer.
 - [Logging in .NET](https://docs.microsoft.com/en-us/dotnet/core/extensions/logging?tabs=command-line)
 
 
+## DB
+
+- [Introduction to NoSQL • Martin Fowler • GOTO 2012](https://www.youtube.com/watch?v=qI_g07C_Q5I)
+- [NewSQL vs. NoSQL for New OLTP](https://www.youtube.com/watch?v=uhDM4fcI2aI)
+
+- [SQL SERVER – ACID](https://blog.sqlauthority.com/2007/12/09/sql-server-acid-atomicity-consistency-isolation-durability/)
+- [SQL ACID Database Properties Explained](https://www.essentialsql.com/sql-acid-database-properties-explained/)
+
+- [NOSQL Essential Training](https://www.linkedin.com/learning/nosql-essential-training/get-to-know-nosql?u=2113185)
+
+- [ SQL Server 2014: Developing Databases ](https://www.linkedin.com/learning/sql-server-2014-developing-databases/welcome?u=2113185)
+- [SQL Tips, Tricks, & Techniques](https://www.linkedin.com/learning/sql-tips-tricks-techniques/welcome?u=2113185)
+
+## [Devops Related topics]
+
+- [CI/CD](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
+- [CI/CD](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
+- [CI/CD](https://www.synopsys.com/glossary/what-is-cicd.html)
+- [Martin Fowler – Continuous Delivery](https://www.youtube.com/watch?v=aoMfbgF2D_4)
+- [Six Strategies for Application Deployment](https://thenewstack.io/deployment-strategies)
+
+- [Branchning Models](https://www.perforce.com/blog/vcs/git-branching-model-multiple-releases)
+- [Branching Models in a nutshell](https://medium.com/contino-engineering/branching-models-in-a-nutshell-bf24ea1d888a)
+- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+
+
+- [Docker](https://docs.docker.com/get-started/)
+- [Docker](https://www.youtube.com/watch?v=jPdIRX6q4jA&list=PLy7NrYWoggjzfAHlUusx2wuDwfCrmJYcs)
+- [K8](https://kubernetes.io/docs/tutorials/)
+- [K8](https://www.youtube.com/watch?v=X48VuDVv0do)
+
 ## Design patterns and AntiPatterns
 
 - [📖 Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?crid=R2E2CLND4NPB&dchild=1&keywords=design+patterns&qid=1629300613&sprefix=design+pa%2Caps%2C315&sr=8-1)
@@ -114,6 +145,38 @@ List of resources to became better .Net developer.
 
 - [ServiceOrientedAmbiguity](https://martinfowler.com/bliki/ServiceOrientedAmbiguity.html)
 - [Microservices vs SOA](https://dzone.com/articles/microservices-vs-soa-2)
+
+## Software development process
+
+- [SDLC](https://stackify.com/what-is-sdlc/)
+- [SDLC](https://www.guru99.com/software-development-life-cycle-tutorial.html)
+- [SDLC](https://www.javatpoint.com/software-engineering-software-development-life-cycle)
+
+- [Pair programming](https://martinfowler.com/articles/on-pair-programming.html)
+- [Pair programming](http://www.extremeprogramming.org/rules/pair.html)
+- [Pair programming](https://medium.com/@weblab_tech/pair-programming-guide-a76ca43ff389)
+- [Pair programming](https://stackify.com/pair-programming-advantages/)
+
+
+# Agile/Scrum/Kanban/Waterfall
+
+- [Manifesto](https://agilemanifesto.org/)
+- [Agile](https://www.agilealliance.org/agile101/)
+
+- [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
+- [What is Scrum? ](https://www.scrum.org/resources/what-is-scrum)
+- [Kanban Explained for Beginners | The Complete Guide ](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban)
+- [Product development: The Waterfall methodology (model) in software development](https://learn.marsdd.com/article/product-development-the-waterfall-methodology-model-in-software-development/)
+- [Agile vs. Waterfall vs. Kanban vs. Scrum: What’s the Difference?](https://www.lucidchart.com/blog/agile-vs-waterfall-vs-kanban-vs-scrum)
+- [Scrum vs Kanban vs Agile vs Waterfall – A side-by-side comparison ](https://www.ntaskmanager.com/blog/scrum-vs-kanban-vs-agile-vs-waterfall/)
+- [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.greycampus.com/blog/agile-and-scrum/agile-vs-scrum-vs-waterfall-vs-kanban)
+
+## Soft Skills & Self/Team/Time management
+
+- [Pomodoro technique](https://www.attendancebot.com/blog/pomodoro-technique/)
+- [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+- [Devil’s Advocate Theory](https://medium.com/@kavyachaturvedi10/devils-advocate-theory-196bff3b38cd)
+- [Managing Team Conflict](https://www.linkedin.com/learning/managing-team-conflict/welcome?u=2113185)
 
 
 
