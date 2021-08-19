@@ -178,5 +178,18 @@ List of resources to became better .Net developer.
 - [Devil’s Advocate Theory](https://medium.com/@kavyachaturvedi10/devils-advocate-theory-196bff3b38cd)
 - [Managing Team Conflict](https://www.linkedin.com/learning/managing-team-conflict/welcome?u=2113185)
 
+## Blogs/Channels
+
+- [InfoQ](https://www.infoq.com/)
+- [Martin Fowler](https://www.infoq.com/)
+- [Scott Hanselman](https://www.hanselman.com/blog/)
+- [DDD Europe](https://www.youtube.com/channel/UC3PGn-hQdbtRiqxZK9XBGqQ)
+- [NDC Conferences](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q)
+- [Microservices](https://microservices.io/)
+- [Udi Dahan](https://udidahan.com/)
+- [Michael's Coding Spot](https://michaelscodingspot.com/)
+- [GoTo](https://www.youtube.com/user/GotoConferences)
+- [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
+- [Sourcemaking](https://sourcemaking.com/)
 
 
