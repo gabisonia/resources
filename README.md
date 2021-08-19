@@ -49,7 +49,7 @@ List of resources to became better .Net developer.
 - [ SQL Server 2014: Developing Databases ](https://www.linkedin.com/learning/sql-server-2014-developing-databases/welcome?u=2113185)
 - [SQL Tips, Tricks, & Techniques](https://www.linkedin.com/learning/sql-tips-tricks-techniques/welcome?u=2113185)
 
-## [Devops Related topics]
+## Devops Related topics
 
 - [CI/CD](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
 - [CI/CD](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
