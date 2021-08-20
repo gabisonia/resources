@@ -1,6 +1,6 @@
 # Resources
 
-List of resources to became better .Net developer.
+List of resources to become better .Net developer.
 
 
 ## .Net/C#/Asp.Net core
