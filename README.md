@@ -185,6 +185,10 @@ List of resources to become better .Net developer.
 - [Agile vs. Waterfall vs. Kanban vs. Scrum: What’s the Difference?](https://www.lucidchart.com/blog/agile-vs-waterfall-vs-kanban-vs-scrum)
 - [Scrum vs Kanban vs Agile vs Waterfall – A side-by-side comparison ](https://www.ntaskmanager.com/blog/scrum-vs-kanban-vs-agile-vs-waterfall/)
 - [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.greycampus.com/blog/agile-and-scrum/agile-vs-scrum-vs-waterfall-vs-kanban)
+- [DoD -DoR](https://orgler.medium.com/what-are-dod-and-dor-in-scrum-14894e0b3d0d)
+- [DoD - DoR](Definition of Ready (DoR) vs. Definition of Done (DoD))
+- [Scrumban](https://www.planview.com/resources/guide/what-is-scrum/lkdc-what-is-scrumban/)
+- [Scrumban](https://www.productplan.com/glossary/scrumban/)
 
 ## Soft Skills & Self/Team/Time management
 
