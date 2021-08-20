@@ -158,6 +158,8 @@ List of resources to become better .Net developer.
 - [ServiceOrientedAmbiguity](https://martinfowler.com/bliki/ServiceOrientedAmbiguity.html)
 - [Microservices vs SOA](https://dzone.com/articles/microservices-vs-soa-2)
 
+- [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
+
 ## Software development process
 
 - [SDLC](https://stackify.com/what-is-sdlc/)
