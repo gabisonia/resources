@@ -191,6 +191,9 @@ List of resources to become better .Net developer.
 - [DoD - DoR](Definition of Ready (DoR) vs. Definition of Done (DoD))
 - [Scrumban](https://www.planview.com/resources/guide/what-is-scrum/lkdc-what-is-scrumban/)
 - [Scrumban](https://www.productplan.com/glossary/scrumban/)
+- [Agile Estimation Techniques: A Deep Dive Into T-Shirt Sizing](https://www.easyagile.com/blog/agile-estimation-techniques/)
+- [Planning Poker](https://www.mountaingoatsoftware.com/agile/planning-poker)
+- [Project Estimation Techniques Everyone Needs To Know](https://www.wrike.com/blog/project-estimation-techniques/)
 
 ## Soft Skills & Self/Team/Time management
 
