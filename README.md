@@ -201,6 +201,9 @@ List of resources to become better .Net developer.
 - [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
 - [Devil’s Advocate Theory](https://medium.com/@kavyachaturvedi10/devils-advocate-theory-196bff3b38cd)
 - [Managing Team Conflict](https://www.linkedin.com/learning/managing-team-conflict/welcome?u=2113185)
+- [Emotional Intelligence in Leadership](https://www.mindtools.com/pages/article/newLDR_45.htm)
+- [Emotional Intelligence](https://www.mindtools.com/pages/article/newCDV_59.htm)
+- [7 Strategies for Resolving Conflict in the Workplace](https://medium.com/@KeithKrach/7-strategies-for-resolving-conflict-in-the-workplace-26a745bb593)
 
 ## Blogs/Channels
 
