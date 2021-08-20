@@ -96,6 +96,8 @@ List of resources to become better .Net developer.
 - [God Object](https://exceptionnotfound.net/god-objects-the-daily-software-anti-pattern/)
 - [Anti-Patterns](https://sourcemaking.com/antipatterns/software-development-antipatterns)
 
+- [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
+
 
 ## Principles
 
@@ -157,8 +159,6 @@ List of resources to become better .Net developer.
 
 - [ServiceOrientedAmbiguity](https://martinfowler.com/bliki/ServiceOrientedAmbiguity.html)
 - [Microservices vs SOA](https://dzone.com/articles/microservices-vs-soa-2)
-
-- [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
 
 ## Software development process
 
