@@ -185,6 +185,7 @@ List of resources to become better .Net developer.
 - [How to Do Code Reviews Like a Human (Part One)](https://mtlynch.io/human-code-reviews-1/)
 - [How to Do Code Reviews Like a Human (Part Two)](https://mtlynch.io/human-code-reviews-2/)
 - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
 
 ## Agile/Scrum/Kanban/Waterfall
