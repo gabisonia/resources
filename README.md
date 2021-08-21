@@ -75,6 +75,7 @@ List of resources to become better .Net developer.
 
 - [Docker](https://docs.docker.com/get-started/)
 - [Docker](https://www.youtube.com/watch?v=jPdIRX6q4jA&list=PLy7NrYWoggjzfAHlUusx2wuDwfCrmJYcs)
+- [Docker](https://www.freecodecamp.org/news/the-docker-handbook/amp/?__twitter_impression=true)
 - [K8](https://kubernetes.io/docs/tutorials/)
 - [K8](https://www.youtube.com/watch?v=X48VuDVv0do)
 
@@ -121,6 +122,7 @@ List of resources to become better .Net developer.
 - [Stop trying to be so DRY, instead Write Everything Twice (WET) ](https://dev.to/wuz/stop-trying-to-be-so-dry-instead-write-everything-twice-wet-5g33)
 - [Demeter’s Law: Don’t talk to strangers!](https://betterprogramming.pub/demeters-law-don-t-talk-to-strangers-87bb4af11694)
 - [Tell, Don’t Ask, the Pragmatic Way](https://programmingwithmosh.com/net/tell-dont-ask-the-pragmatic-way/)
+- [Top 9 qualities of clean code](https://blog.aspiresys.pl/technology/top-9-principles-clean-code/)
 
 ## Testing
 
@@ -152,6 +154,8 @@ List of resources to become better .Net developer.
 - [CQRS Documents by Greg Young](https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf)
 - [CQRS By Martin Fowler](https://martinfowler.com/bliki/CQRS.html)
 - [Clarified CQRS - Udi Dahan](https://udidahan.com/2009/12/09/clarified-cqrs/)
+- [From CQS to CQRS](https://herbertograca.com/2017/10/19/from-cqs-to-cqrs/)
+- [CQRS](https://medium.com/eleven-labs/cqrs-pattern-c1d6f8517314)
 
 - [Event Sourcing- Martin Fowler](https://martinfowler.com/eaaDev/EventSourcing.html)
 - [Event Sourcing pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
@@ -159,6 +163,9 @@ List of resources to become better .Net developer.
 
 - [ServiceOrientedAmbiguity](https://martinfowler.com/bliki/ServiceOrientedAmbiguity.html)
 - [Microservices vs SOA](https://dzone.com/articles/microservices-vs-soa-2)
+
+- [CAP Theorem](https://robertgreiner.com/cap-theorem-explained/)
+- [An Illustrated Proof of the CAP Theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
 
 ## Software development process
 
