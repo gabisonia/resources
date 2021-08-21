@@ -181,8 +181,10 @@ List of resources to become better .Net developer.
 
 ## Best Practices for Code Review
 
+- [How to Do Code Reviews Like a Human](https://www.youtube.com/watch?v=0t4_MfHgb_A)
 
-# Agile/Scrum/Kanban/Waterfall
+
+## Agile/Scrum/Kanban/Waterfall
 
 - [Manifesto](https://agilemanifesto.org/)
 - [Agile](https://www.agilealliance.org/agile101/)
