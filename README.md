@@ -119,6 +119,7 @@ List of resources to become better .Net developer.
 - [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 - [Avoiding RepetitionMartin Fowler](https://martinfowler.com/ieeeSoftware/repetition.pdf)
 - [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+- [YAGNI](https://martinfowler.com/bliki/Yagni.html)
 - [Stop trying to be so DRY, instead Write Everything Twice (WET) ](https://dev.to/wuz/stop-trying-to-be-so-dry-instead-write-everything-twice-wet-5g33)
 - [Demeter’s Law: Don’t talk to strangers!](https://betterprogramming.pub/demeters-law-don-t-talk-to-strangers-87bb4af11694)
 - [Tell, Don’t Ask, the Pragmatic Way](https://programmingwithmosh.com/net/tell-dont-ask-the-pragmatic-way/)
