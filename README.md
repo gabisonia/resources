@@ -217,6 +217,8 @@ List of resources to become better .Net developer.
 - [Emotional Intelligence in Leadership](https://www.mindtools.com/pages/article/newLDR_45.htm)
 - [Emotional Intelligence](https://www.mindtools.com/pages/article/newCDV_59.htm)
 - [7 Strategies for Resolving Conflict in the Workplace](https://medium.com/@KeithKrach/7-strategies-for-resolving-conflict-in-the-workplace-26a745bb593)
+- [How to Use the STAR Interview Response Method ](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629)
+- [STAR](https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique)
 
 ## Blogs/Channels
 
