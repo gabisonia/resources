@@ -208,6 +208,7 @@ List of resources to become better .Net developer.
 - [Agile Estimation Techniques: A Deep Dive Into T-Shirt Sizing](https://www.easyagile.com/blog/agile-estimation-techniques/)
 - [Planning Poker](https://www.mountaingoatsoftware.com/agile/planning-poker)
 - [Project Estimation Techniques Everyone Needs To Know](https://www.wrike.com/blog/project-estimation-techniques/)
+- [ Agile Risk Management: The Need Still Exists ](https://tcagley.wordpress.com/2014/10/18/agile-risk-management-the-need-still-exists/#:~:text=ROAM%20is%20a%20model%20that,doing%20something%20about%20the%20risk.)
 
 ## Soft Skills & Self/Team/Time management
 
