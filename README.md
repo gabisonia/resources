@@ -221,6 +221,8 @@ List of resources to become better .Net developer.
 - [How to Use the STAR Interview Response Method ](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629)
 - [STAR](https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique)
 
+## Documentation & Diagrams
+
 ## Blogs/Channels
 
 - [InfoQ](https://www.infoq.com/)
