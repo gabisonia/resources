@@ -84,7 +84,7 @@ List of resources to become better .Net developer.
 
 - [📖 Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?crid=R2E2CLND4NPB&dchild=1&keywords=design+patterns&qid=1629300613&sprefix=design+pa%2Caps%2C315&sr=8-1)
 - [📖 Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=sr_1_2?crid=R2E2CLND4NPB&dchild=1&keywords=design+patterns&qid=1629300613&sprefix=design+pa%2Caps%2C315&sr=8-2)
-
+- [📖 Patterns, Principles, and Practices of Domain-Driven Design](https://www.oreilly.com/library/view/patterns-principles-and/9781118714706/)
 
 - [Code Smells](https://refactoring.guru/refactoring/smells)
 - [GoF Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
