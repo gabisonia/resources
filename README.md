@@ -150,6 +150,8 @@ List of resources to become better .Net developer.
 - [📖 Implementing Domain-Driven Design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577/ref=sr_1_2?crid=1IXFRTULIFRPI&dchild=1&keywords=domain+driven+design&qid=1629302320&sprefix=Domain+Dri%2Caps%2C160&sr=8-2)
 - [📖 Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358/ref=sr_1_1?dchild=1&keywords=microservices&qid=1629302481&sr=8-1)
 
+- [The Two Sides of Domain-Driven Design (DDD)](http://gorodinski.com/blog/2013/03/11/the-two-sides-of-domain-driven-design/)
+
 - [Microservices](https://microservices.io/)
 - [Mircorservices By Martin Fowler](https://www.martinfowler.com/articles/microservices.html)
 
