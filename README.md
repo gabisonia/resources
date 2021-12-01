@@ -247,4 +247,5 @@ List of resources to become better .Net developer.
 - [TechWorld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
 - [Sourcemaking](https://sourcemaking.com/)
 - [Vladimir (Vlad) Khorikov](https://enterprisecraftsmanship.com/)
+- [ Dotnetos ](https://www.youtube.com/c/Dotnetos/playlists)
 
