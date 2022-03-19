@@ -173,6 +173,7 @@ List of resources to become better .Net developer.
 - [An Illustrated Proof of the CAP Theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
 
 - [Self-contained System (SCS)](https://scs-architecture.org/)
+- [SCS](https://www.youtube.com/watch?v=kxNganR6YQA&list=PLnSDpJU-Yq1GHdrgOZOMdNqMie43Oz3sx)
 
 ## Deployment techniques
 - [Six Strategies for Application Deployment](https://thenewstack.io/deployment-strategies/)
