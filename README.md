@@ -16,6 +16,7 @@ List of resources to become better .Net developer.
 - [GC](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals)
 - [GC](https://www.jetbrains.com/help/dotmemory/NET_Memory_Management_Concepts.html)
 - [GC](https://www.cloudsavvyit.com/6006/how-does-memory-management-work-in-c/)
+- [Everything about Garbage collection](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/)
 - [Asynchronous and Parallel Programming in C# .NET](https://medium.com/geekculture/asynchronous-and-parallel-programming-in-c-net-1e0f14e1db80)
 - [Async In depth](https://docs.microsoft.com/en-us/dotnet/standard/async-in-depth)
 - [Async Programming](https://docs.microsoft.com/en-us/dotnet/csharp/async)
