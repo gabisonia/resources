@@ -171,6 +171,7 @@ List of resources to become better .Net developer.
 - [Microservices vs SOA](https://dzone.com/articles/microservices-vs-soa-2)
 
 - [CAP Theorem](https://robertgreiner.com/cap-theorem-explained/)
+- [CAP Theorem, PACELC, and Microservices](https://ardalis.com/cap-pacelc-and-microservices/?utm_sq=h1xm0gz91i)
 - [An Illustrated Proof of the CAP Theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
 
 - [Self-contained System (SCS)](https://scs-architecture.org/)
