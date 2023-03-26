@@ -137,6 +137,7 @@ List of resources to become better .Net developer.
 - [Testing and Code Coverage](https://pjcj.net/testing_and_code_coverage/paper.html)
 - [Mutation Testing](https://www.guru99.com/mutation-testing.html)
 - [AAA](https://medium.com/@pjbgf/title-testing-code-ocd-and-the-aaa-pattern-df453975ab80)
+- [FIRST](https://medium.com/@tasdikrahman/f-i-r-s-t-principles-of-testing-1a497acda8d6)
 
 ## REST
 
