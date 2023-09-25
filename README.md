@@ -254,4 +254,5 @@ List of resources to become better .Net developer.
 - [Sourcemaking](https://sourcemaking.com/)
 - [Vladimir (Vlad) Khorikov](https://enterprisecraftsmanship.com/)
 - [ Dotnetos ](https://www.youtube.com/c/Dotnetos/playlists)
+- [dotnetketchup](https://dotnetketchup.com/)
 
