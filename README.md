@@ -189,6 +189,7 @@ List of resources to become better .Net developer.
 - [SDLC](https://stackify.com/what-is-sdlc/)
 - [SDLC](https://www.guru99.com/software-development-life-cycle-tutorial.html)
 - [SDLC](https://www.javatpoint.com/software-engineering-software-development-life-cycle)
+- [SDLC](https://www.scaler.com/blog/software-development-life-cycle/)
 
 - [Pair programming](https://martinfowler.com/articles/on-pair-programming.html)
 - [Pair programming](http://www.extremeprogramming.org/rules/pair.html)
